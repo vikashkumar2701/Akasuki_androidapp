@@ -1,4 +1,4 @@
-# Akasuki_androidapp
+# Akasuki_androidapp | Power To Fly Hackathon
 
 No internet app to send SOS alerts to your favourite contacts on their mobile phone using SMS and Whatsapp.
 
